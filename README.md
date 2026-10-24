@@ -21,3 +21,15 @@ Stretch Goals:
 
 
 The scope remains intentionally exploratory, allowing research questions, experimental methods, and potential extensions to evolve based on empirical findings. The emphasis is on reproducible experimentation, rigorous evaluation, and hypothesis-driven analysis rather than achieving state-of-the-art classification performance.
+
+Pretrained model sources:
+ResNet-50 pretrained on imagenet-1k(torchvision): https://docs.pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html  
+Paper: https://arxiv.org/pdf/1512.03385  
+ViT pretrained on imagenet-1k(huggingfac):  
+https://huggingface.co/timm/vit_small_patch16_224.augreg_in1k  
+Paper: https://arxiv.org/pdf/2010.11929  
+Convnext-tiny pretrained on imagenet-1k(torchvision):  
+https://docs.pytorch.org/vision/main/models/generated/torchvision.models.convnext_tiny.html?utm_source=chatgpt.com  
+Paper:https://arxiv.org/pdf/2201.03545  
+https://docs.pytorch.org/vision/main/models/generated/torchvision.models.convnext_tiny.html?utm_source=chatgpt.com  
+
